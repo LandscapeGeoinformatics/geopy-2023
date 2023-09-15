@@ -7,6 +7,8 @@ Course materials in Moodle:
 https://moodle.ut.ee/course/view.php?id=10545
 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/geopy-2023/main)
+
 ## Acknowledgements
 
 - Supported by projects and funding
